@@ -1,5 +1,7 @@
 # SOFTEM RESTAURANT
 
+**Live site:** https://knight-dev01.github.io/Softem-Website/
+
 A complete **offline** restaurant website for Lagos, built with HTML, CSS and vanilla JavaScript.
 
 The layout, design system and interaction concepts are adapted from the **Tech World Watches** project:
@@ -14,6 +16,13 @@ The layout, design system and interaction concepts are adapted from the **Tech W
 ---
 
 ## 1. How to run it
+
+### Live on GitHub Pages
+
+Open https://knight-dev01.github.io/Softem-Website/ — Pages deploys automatically
+from the `main` branch root whenever a commit is pushed.
+
+### Locally
 
 1. Keep the folder structure intact (see below).
 2. **Double-click `index.html`** (or right-click → Open with → your browser).
